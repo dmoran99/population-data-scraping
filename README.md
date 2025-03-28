@@ -3,4 +3,4 @@ This is a simple example of web scraping using Python's Selenium WebDriver API. 
 
 One test this program runs at the end is to ensure that the 2020 and 2021 U.S. overall populations are the sums of all state populations and the District of Columbia's population for each year.
 
-Please note that you must download a version of ChromeDriver that works with your operating system and with your current Chrome version. Look for the right ChromeDriver version for you and download it here: https://googlechromelabs.github.io/chrome-for-testing/#stable
+Please note that you must download a version of ChromeDriver that works with your operating system and with your current Chrome version. Look for the right ChromeDriver version for you (with "chromedriver" in the "Binary" column) and download it here: https://googlechromelabs.github.io/chrome-for-testing/#stable
